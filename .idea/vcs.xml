@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/C0620G1-demo-laravel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CRUD2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CRUD3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel-manage-customer-crud" vcs="Git" />
+  </component>
+</project>
